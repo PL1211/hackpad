@@ -2,6 +2,11 @@
 
 This project is a **hackpad featuring WASD keys and an additional programmable button**. I made it primarily to improve my **CAD and PCB design skills** while creating a functional custom macropad.
 
+CAD - 
+<img width="1187" height="606" alt="image" src="https://github.com/user-attachments/assets/9930467d-9e63-45a7-ab9a-2de78c49504d" />
+PCB - 
+<img width="984" height="589" alt="image" src="https://github.com/user-attachments/assets/2f6255b6-54ce-4400-a82c-e9a2d872c86f" />
+
 ## Bill of Materials (BOM) (LINKS ARE IN THE BOM FILE)
 
 | Component                                                         | Quantity | Unit Price | Item Total | Total Cost / Paid | Supplier                |
