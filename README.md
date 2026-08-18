@@ -8,6 +8,8 @@ CAD -
 <img width="1187" height="606" alt="image" src="https://github.com/user-attachments/assets/9930467d-9e63-45a7-ab9a-2de78c49504d" />
 PCB - 
 <img width="984" height="589" alt="image" src="https://github.com/user-attachments/assets/2f6255b6-54ce-4400-a82c-e9a2d872c86f" />
+SCH - 
+<img width="1125" height="586" alt="image" src="https://github.com/user-attachments/assets/0468457b-f7dd-4320-ada6-d974863c8fa1" />
 
 ## Bill of Materials (BOM) (LINKS ARE IN THE BOM FILE)
 
