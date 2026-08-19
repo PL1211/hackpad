@@ -13,6 +13,8 @@ SCH -
 
 ## Bill of Materials (BOM) (LINKS ARE IN THE BOM FILE)
 
+**I only need the PCB; I have all other parts.**
+
 | Component                                                         | Quantity | Unit Price | Item Total | Total Cost / Paid | Links                |
 | ----------------------------------------------------------------- | -------: | ---------: | ---------: | ----------------: | ----------------------- |
 | Seeed Studio XIAO RP2040                                          |        1 |      $3.99 |      $3.99 |            $10.21 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html            |
