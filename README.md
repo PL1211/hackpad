@@ -2,7 +2,7 @@
 
 This project is a **hackpad featuring WASD keys and an additional programmable button**. 
 I **made** it primarily to improve my **CAD and PCB design skills** while creating a functional custom macropad.
-This keyboard works using Circuit Python on the rp2040 microcontroller
+This keyboard works using Circuit Python on the rp2040 microcontroller. This hackpad allows me to have a extra set of keys while gaming, as well as allows me to use custom macros.
 
 CAD - 
 <img width="1187" height="606" alt="image" src="https://github.com/user-attachments/assets/9930467d-9e63-45a7-ab9a-2de78c49504d" />
